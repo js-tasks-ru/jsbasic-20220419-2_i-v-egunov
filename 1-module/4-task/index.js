@@ -1,5 +1,5 @@
 function checkSpam(str){
-  if (str.toLowerCase().includes('1xbet')||str.toLowerCase().includes('xxx')){
+  if (str.toLowerCase().includes('1xBet'.toLowerCase())||str.toLowerCase().includes('XXX'.toLowerCase())){
   return true;
   }
   else {
